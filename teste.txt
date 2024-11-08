@@ -1,2 +1,3 @@
 testando o comando NANO
 testando o comando CAT ----  mostra oque esta escrito no arwuivo
+testand oo git push
